@@ -1,0 +1,8 @@
+PROGRAM Prog
+BEGIN
+INTEGER a = 1
+INTEGERa b 
+b = ( a + 3 ) - 6
+CHARACTER d = 'jjjjj
+CHARACTER v = 'liza'
+END Prog
