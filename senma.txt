@@ -1,0 +1,15 @@
+Error
+----------------------------
+Repeated creation of a variable
+Different data type
+Different Begin and End
+----------------------------
+Result
+----------------------------
+PROGRAM Id 2 DEFL
+INTEGER pov Varlst povOne 4 DECL
+CHARACTER piv pivTwo 3 DECL
+INTEGER povOne 2 DECL
+pov piv pivTwo + =
+pov pov Varlst + 10 + =
+END As 2 DEFL

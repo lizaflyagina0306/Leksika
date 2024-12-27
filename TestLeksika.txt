@@ -1,0 +1,7 @@
+PROGRAM Id
+INTEGER pov,Varlst,povOne
+CHARACTER piv,pivTwo
+INTEGER povOne
+pov = piv + pivTwo
+pov = pov + Varlst + 10
+END As

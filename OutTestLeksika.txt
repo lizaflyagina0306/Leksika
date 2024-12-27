@@ -1,0 +1,47 @@
+WORK PROGRAMM
+KeyWord PROGRAM 88
+NameVar Id 152
+KeyWord INTEGER 715
+NameVar pov 139
+Expresion , 44
+NameVar Varlst 823
+Expresion , 44
+NameVar povOne 555
+KeyWord CHARACTER 550
+NameVar piv 960
+Expresion , 44
+NameVar pivTwo 602
+KeyWord INTEGER 715
+NameVar povOne 555
+NameVar pov 139
+Expresion = 61
+NameVar piv 960
+Expresion + 43
+NameVar pivTwo 602
+NameVar pov 139
+Expresion = 61
+NameVar pov 139
+Expresion + 43
+NameVar Varlst 823
+Expresion + 43
+Int 10 530
+KeyWord END 366
+NameVar As 609
+
+HESH TABLE
+Type  Leksema  Hesh 
+Expresion + 43
+Expresion , 44
+Expresion = 61
+KeyWord PROGRAM 88
+NameVar pov 139
+NameVar Id 152
+KeyWord END 366
+Int 10 530
+KeyWord CHARACTER 550
+NameVar povOne 555
+NameVar pivTwo 602
+NameVar As 609
+KeyWord INTEGER 715
+NameVar Varlst 823
+NameVar piv 960
